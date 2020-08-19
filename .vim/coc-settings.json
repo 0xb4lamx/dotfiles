@@ -9,5 +9,6 @@
     "typescript.tsx",
     "graphql",
     "python"
-  ]
+  ],
+  "python.jediPath": "/home/b4lamx/.local/lib/python3.7/site-packages"
 }
